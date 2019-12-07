@@ -1,0 +1,14 @@
+.bg-custom{
+    background-color: darkslategray;
+}
+
+.btn{
+    border-radius: 0%!important;
+    clip-path: polygon(6% 0, 100% 0%, 94% 100%, 0% 100%)!important;
+}
+
+.jumbotron{
+    border-radius: 0%!important;
+    background-color: #c6f1d6;
+    clip-path: polygon(8% 0, 100% 0%, 92% 100%, 0% 100%)!important;
+}
